@@ -1,4 +1,4 @@
-# Author - Naman Singh Chandel
+# Author - Vaishnavi Singh
 
 
 Video captioning, the art of translating a video to generate a meaningful summary of the
